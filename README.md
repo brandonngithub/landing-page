@@ -1,7 +1,5 @@
 # landing-page
 
-<p>
-Project: Landing Page\n
-The Odin Project\n
+Project: Landing Page <br>
+The Odin Project <br>
 Foundations Course
-<p>
