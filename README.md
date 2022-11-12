@@ -1,6 +1,6 @@
 ## ~ landing-page ~
 <p>The second project from TheOdinProject (Foundations Course).</p>
-<p>A simple landing page that utilizes flex to display elements on the page. Query responsiveness yet to be implemented.</p>
+<p>A simple landing page that demonstrates basic CSS and utilizes flex to display elements on the page. Query responsiveness yet to be implemented.</p>
 
 ## Tech Used:
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
