@@ -4,7 +4,7 @@ body {
 
 /** styling for header **/
 .header {
-    background-color: #3e2b55;
+    background-color: #2d1d42;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -28,7 +28,7 @@ a {
 
 /** styling for middle1 **/
 .middle1 {
-    background-color: #3e2b55;
+    background-color: #2d1d42;
     display: flex;
     justify-content: space-between;
     padding-left: 15%;
@@ -60,7 +60,7 @@ img {
 }
 
 .middle1button {
-    background-color: #3b8791;
+    background-color: #577d22;
     color: white;
     font-size: 18px;
     align-self: flex-start;
@@ -130,7 +130,7 @@ img {
 }
 
 .popup {
-    background-color: #3b8791;
+    background-color: #577d22;
     border: none;
     border-radius: 15px 15px;
     display: flex;
@@ -158,13 +158,13 @@ img {
     border-color: white;
     border-radius: 10px;
     border-width: 2px;
-    background-color: #3b8791;
+    background-color: #577d22;
     color: white;
 }
 
 /** footer styling **/
 .footer {
-    background-color: #1f2937;
+    background-color: #110b1a;
     color: #E5E7EB;
     display: flex;
     justify-content: center;
