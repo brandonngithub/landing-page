@@ -5,6 +5,8 @@
 ## Tech Used:
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- UNIX terminal
+- Git and GitHub
 
 ## Links:
 - [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-landing-page)
