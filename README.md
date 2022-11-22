@@ -9,6 +9,7 @@
 - Git and GitHub
 
 ## Links:
+- [LIVE DEMO](https://brandonngithub.github.io/landing-page/)
 - [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-landing-page)
 - [Warner Bros](https://www.warnerbros.com/brands/scooby-doo)
 
