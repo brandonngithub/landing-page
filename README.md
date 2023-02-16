@@ -1,17 +1,12 @@
 ## ~ landing-page ~
-<p>The second project from TheOdinProject (Foundations Course).</p>
+[LIVE DEMO](https://brandonngithub.github.io/landing-page/)
 <p>Query responsiveness yet to be implemented.</p>
 
 ## Tech Used:
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - UNIX terminal
-- Git and GitHub
-
-## Links:
-- [LIVE DEMO](https://brandonngithub.github.io/landing-page/)
-- [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-landing-page)
-- [Warner Bros](https://www.warnerbros.com/brands/scooby-doo)
+- Git
 
 ## Screenshots:
 <img width="1440" alt="1" src="https://user-images.githubusercontent.com/91623674/201452000-8dba58b0-c475-4e32-9fe5-62a7a7524933.png">
