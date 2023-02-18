@@ -1,4 +1,4 @@
-## ~ landing-page ~
+## ~ mystery-inc ~
 [LIVE DEMO](https://brandonngithub.github.io/mystery-inc/)
 <p>Query responsiveness yet to be implemented.</p>
 
