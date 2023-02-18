@@ -1,5 +1,5 @@
 ## ~ landing-page ~
-[LIVE DEMO](https://brandonngithub.github.io/landing-page/)
+[LIVE DEMO](https://brandonngithub.github.io/mystery-inc/)
 <p>Query responsiveness yet to be implemented.</p>
 
 ## Tech Used:
